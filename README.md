@@ -19,8 +19,10 @@ Clone this repo and move into the project directory. <br>
 
 _NB_: _Make sure you have **virtualenv** installed._ Click [here](https://gist.github.com/frfahim/73c0fad6350332cef7a653bcd762f08d) to see how you can set it up.<br>
 Open your `terminal` or `command prompt`  and run: <br>
-`pip install -r requirements.txt` to install all required packages. <br>
-If everything works well, move on!
+```
+pip install -r requirements.txt
+```
+to install all required packages. If everything works well, move on!
 
 ___
 
