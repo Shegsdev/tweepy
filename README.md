@@ -10,6 +10,11 @@ Tweepy is an easy-to-use Python library for accessing the Twitter API.
 
 ___
 
+### Requirements
+First, you'll want to create an app on [Twitter](https://apps.twitter.com) if you haven't. This will allow you have the necessary credentials for authentication.
+
+___
+
 ### Installation
 To run the program, you need to have Python installed on your machine.
 Follow this [link]("https://python.org") to download Python.
@@ -27,7 +32,10 @@ to install all required packages. If everything works well, move on!
 ___
 
 ### Finally...let's run the program
-Enter: 
+* Rename the file `twitter_credentials.example.py` to `twitter_credentials.py`
+* Open the file and input your API credentials.
+
+In the command line, enter:
 ```
 python tweepy_streamer.py
 ```
