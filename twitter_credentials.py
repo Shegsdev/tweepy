@@ -1,0 +1,6 @@
+# Add user crendentials to access Twitter API
+
+ACCESS_TOKEN = "931417784-dPceyOLdTljlNjiDBCfcSq4ozpDEKzvZbxMV2qds"
+ACCESS_TOKEN_SECRET = "pK7LcAtSa6rTazB1TbuVUwswFiZVFpKtq4XQZ2fn38dSL"
+CONSUMER_KEY = "k7YuKxqNCc9KlP5Nz84QtBR2x"
+CONSUMER_SECRET = "2O20scUo1bGMu5kyoWy7LnrOOIMmmOlCehaOpY7yXPWC8y3Tv1"

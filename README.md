@@ -4,13 +4,13 @@ Live stream tweets...
 
 This is a follow along session on how the Tweepy Python library works.
 
-#### What is Tweepy?
+### What is Tweepy?
 Tweepy is an easy-to-use Python library for accessing the Twitter API.
 [Learn more](https://www.tweepy.org)
 
 ___
 
-#### Installation
+### Installation
 To run the program, you need to have Python installed on your machine.
 Follow this [link]("https://python.org") to download Python.
 
@@ -26,7 +26,7 @@ to install all required packages. If everything works well, move on!
 
 ___
 
-##### Finally...let's run the program
+### Finally...let's run the program
 Enter: 
 ```
 python tweepy_streamer.py
